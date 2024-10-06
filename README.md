@@ -17,7 +17,6 @@ You can find detailed instructions and explanations in the notebook itself.
 
 ### Todo
 - Recommend baseline slots
-- Forecast using ML
-
+- Produce a formatted report
 ### Disclaimer
 Workloads change and over time and even from day to day. While the process of evaluation tries to be as precise as possible, there is no way to know precisely in advance what the cost or the slot consumption will be. So this gives you an estimation but continuous monitoring and tuning will be needed.
