@@ -8,5 +8,13 @@ They ask Three main questions:
 
 This notebook contains a series of queries that begin with the INFORMATION_SCHEMA.JOBS and INFORMATION_SCHEMA.JOBS_TIMELINE views and tries to calculate the best values to answer those questions.
 You can find detailed instructions and explanations in the notebook itself.
+
+### Usage
+
+1. Clone the repository
+2. Upload the Slot_machine.ipynb file to BigQuery notebook.
+3. Follow the instructions in the notebook itself.
+
+
 ### Disclaimer
 Workloads change and over time and even from day to day. While the process of evaluation tries to be as precise as possible, there is no way to know precisely in advance what the cost or the slot consumption will be. So this gives you an estimation but continuous monitoring and tuning will be needed.
