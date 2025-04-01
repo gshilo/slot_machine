@@ -16,5 +16,6 @@ You can find detailed instructions and explanations in the notebook itself.
 3. Follow the instructions in the notebook itself.
 
 ### Disclaimer
+This is not an official Google tool.
 Workloads change over time and even from day to day. While the process of evaluation tries to be as precise as possible, there is no way to know precisely in advance what the cost or the slot consumption will be. So this gives you an estimation but continuous monitoring and tuning will be needed.
 Make sure to monitor the performance and cost closely in the first days after the change to see that there are no surprises in performance or cost.
